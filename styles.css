@@ -1,24 +1,23 @@
 body {
-	background: black;
-	color: white;
+	background: #33363b;
+	color: #eaeaea;
 	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 	margin: 0;
 	padding: 0;
 }
 title {
-	color: #8EE4AF;
 }
 h1 {
-	color: #EDF5E1
+	color: #7ebc59
 }
 h2 {
-	color: #5CDB95;
+	color: #368cbf
 }
 h3 {
-	color: #907163;
+	color: #368cbf
 }
 h4 {
-	color: #379683;
+	color: #368cbf
 }
 ul {
 	margin: 0;
