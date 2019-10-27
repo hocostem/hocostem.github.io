@@ -5,19 +5,19 @@ body {
 	margin: 0;
 	padding: 0;
 }
-h1 {
+title {
 	color: #8EE4AF;
 }
-h2 {
+h1 {
 	color: #EDF5E1
 }
-h3 {
+h2 {
 	color: #5CDB95;
 }
-h4 {
+h3 {
 	color: #907163;
 }
-h5 {
+h4 {
 	color: #379683;
 }
 ul {
