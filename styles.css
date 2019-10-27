@@ -1,6 +1,6 @@
 header {
 	background: #33363b;
-	color: #eaeaea
+	color: #eaeaea;
 	padding: 20px 20px 10px 20px;
 }
 title {
@@ -8,22 +8,22 @@ title {
 }
 body {
 	background: #eaeaea;
-	color: #33363b
+	color: #33363b;
 	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 	margin: 0;
 	padding: 0;
 }
 h1 {
-	color: #7ebc59
+	color: #7ebc59;
 }
 h2 {
-	color: #368cbf
+	color: #368cbf;
 }
 h3 {
-	color: #368cbf
+	color: #368cbf;
 }
 h4 {
-	color: #368cbf
+	color: #368cbf;
 }
 ul {
 	margin: 0;
