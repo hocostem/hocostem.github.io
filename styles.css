@@ -13,10 +13,10 @@ body {
 	padding: 0;
 }
 h1 {
-	color: #7ebc59;
+	color: #eaeaea;
 }
 h2 {
-	color: #368cbf;
+	color: #7ebc59;
 }
 h3 {
 	color: #368cbf;
@@ -25,6 +25,7 @@ h4 {
 	color: #368cbf;
 }
 ul {
+	background: #7ebc59;
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
