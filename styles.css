@@ -1,6 +1,6 @@
 body {
-	background: #33363b;
-	color: #eaeaea;
+	background: #eaeaea;
+	color: #33363b;
 	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 	margin: 0;
 	padding: 0;
@@ -29,7 +29,8 @@ li {
 	margin-right: 20px
 }
 header {
-	background: black;
+	background: #33363b;
+	color: #eaeaea
 	padding: 20px 20px 10px 20px;
 }
 section {
