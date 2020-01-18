@@ -1,55 +1,11 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name ="viewport" content="width=device-width">
-    <meta name ="description" content="STEM opportunities and mentorship in Howard County">
-    <meta name ="keywords" content="STEM opportunities, Howard County STEM, STEM in Howard County, STEM mentorship, Howard County STEM mentorship">
-    <meta name ="author" content="Angeline Luther">
-    <title>HoCoSTEM | Opportunities</title>
-    <link rel="stylesheet" href="./css/style.css">
-  </head>
-  <body>
-    <header>
-      <div class="container">
-        <div id="sitetitle">
-          <h1><span class="highlight">Howard County</span> STEM</h1>
-        </div>
-        <nav>
-          <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="calendar.html">Calendar</a></li>
-            <li><a href="mentors.html">Mentors</a></li>
-            <li class="current"><a href="opportunities.html">Opportunities</a></li>
-            <li><a href="about.html">About Us</a></li>
-          </ul>
-        </nav>
-      </div>
-    </header>
-
-    <section id="newsletter">
-      <div class="container">
-        <h1>Subscribe to Our Newsletter</h1>
-        <form>
-          <input type="email" placeholder="Enter Email..."/>
-          <button type="submit" class="button_1">Subscribe</button>
-        </form>
-      </div>
-    </section>
-
-    <section id="main">
-      <div class="container">
-        <article id="main-col">
-          <h1 class="page-title">Opportunities</h1>
-        </article>
-      </div>
-    </section>
-
-    <section>
-      <section id="boxes">
-        <div class="container">
-          <div class="box">
-              <div class="dark">
+---
+title: Opportunities
+layout: default
+---
+  <section id="boxes">
+    <div class="container">
+      <div class="box">
+          <div class="dark">
             <h4>Classes</h4>
             <p>Howard County offers a plethora of class opportunities and career academies that provide opportunities for students to explore career paths before their graduation.  Here is a list of a few STEM career academies:</p>
             <ul>
@@ -61,9 +17,10 @@
               <p><li><a href="https://www.hcpss.org/academy/engineering/">PLTW (Project Lead the Way) Engineering</a></li></p>
             </ul>
           </div>
-          </div>
-          <div class="box">
-              <div class="dark">
+        </div>
+
+      <div class="box">
+          <div class="dark">
             <h4>Extracurriculars</h4>
               <p>Clubs vary based on school, so be sure to check what your school offers!</p>
               <p>Here's a list of some awesome clubs to check out:</p>
@@ -90,8 +47,9 @@
               </ul>
             </div>
           </div>
-          <div class="box">
-              <div class="dark">
+
+        <div class="box">
+          <div class="dark">
             <h4>Honor Societies</h4>
             <p>Honor societies typically reserve membership and applications to those who are upperclassmen.  They are a great way to partake in community service and demonstrate passion for a subject</p>
             <p><a href="https://mualphatheta.org/">Math Honor Society (Mu Alpha Theta)</a></p>
@@ -100,22 +58,15 @@
             <p><a href="https://nths.org/">Technical Honor Society</a></p>
           </div>
         </div>
-          <div class="box">
-              <div class="dark">
+
+        <div class="box">
+          <div class="dark">
             <h4>Opportunities Beyond School</h4>
             <p>Internships</p>
             <p>There are a variety of internships available in the area, including some specifically catered towards high school students!</p>
             <ul>
-              <p><li><a href="https://seap.asee.org/">American Society for Engineering Education's Science and Engineering Apprenticeship Program (SEAP)</a></li></p>
-              <p><li><a href="https://secwww.jhuapl.edu/stem/aspire/">Johns Hopkins University's ASPIRE Program</a></li></p>
-            </ul>
-          </div>
-          </div>
+            <p><li><a href="https://seap.asee.org/">American Society for Engineering Education's Science and Engineering Apprenticeship Program (SEAP)</a></li></p>
+            <p><li><a href="https://secwww.jhuapl.edu/stem/aspire/">Johns Hopkins University's ASPIRE Program</a></li></p>
+          </ul>
         </div>
-      </section>
-
-    <footer>
-      <p>HoCo STEM 2019</p>
-    </footer>
-  </body>
-</html>
+      </div>

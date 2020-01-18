@@ -1,29 +1,17 @@
+---
+title: HoCoSTEM
+---
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name ="viewport" content="width=device-width">
-    <meta name ="description" content="STEM opportunities and mentorship in Howard County">
-    <meta name ="keywords" content="STEM opportunities, Howard County STEM, STEM in Howard County, STEM mentorship, Howard County STEM mentorship">
-    <meta name ="author" content="Angeline Luther">
-    <title>HoCoSTEM | Welcome</title>
-    <link rel="stylesheet" href="./css/style.css">
-  </head>
+  {% include header.html %}
   <body>
     <header>
       <div class="container">
         <div id="sitetitle">
           <h1><span class="highlight">Howard County</span> STEM</h1>
         </div>
-        <nav>
-          <ul>
-            <li class="current"><a href="index.html">Home</a></li>
-            <li><a href="calendar.html">Calendar</a></li>
-            <li><a href="mentors.html">Mentors</a></li>
-            <li><a href="opportunities.html">Opportunities</a></li>
-            <li><a href="about.html">About Us</a></li>
-          </ul>
-        </nav>
+        {% include nav.html %}
       </div>
     </header>
 
@@ -35,15 +23,7 @@
       </div>
     </section>
 
-    <section id="newsletter">
-      <div class="container">
-        <h1>Subscribe to Our Newsletter</h1>
-        <form>
-          <input type="email" placeholder="Enter Email..."/>
-          <button type="submit" class="button_1">Subscribe</button>
-        </form>
-      </div>
-    </section>
+    {% include newsletter.html %}
 
     <section id="boxes">
       <div class="container">
@@ -74,8 +54,6 @@
       </div>
     </section>
 
-    <footer>
-      <p>HoCo STEM 2019</p>
-    </footer>
+    {% include footer.html %}
   </body>
 </html>

@@ -1,0 +1,29 @@
+---
+title: HoCoSTEM Mentors
+---
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  {% include header.html %}
+  <body>
+    <header>
+      <div class="container">
+        <div id="sitetitle">
+          <h1><span class="highlight">Howard County</span> STEM</h1>
+        </div>
+        {% include nav.html %}
+      </div>
+    </header>
+
+    {{ post.title }}
+    <div class="post">
+      <article>
+        <h1><strong>{{ page.title }}</strong></h1>
+        <h4>Published {{ page.date | date_to_string }}</h4>
+        {{ content }}
+      </article>
+    </div>
+
+
+    {% include footer.html %}
+  </body>
+</html>
