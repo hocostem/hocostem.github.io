@@ -44,7 +44,10 @@ header{
   min-height:70px;
   border-bottom:#368cbf 3px solid;
 }
-
+h1 a {
+  text-align: center;
+  color: #ffffff;
+}
 header a{
   color:#ffffff;
   text-decoration:none; /*gets rid of underline of a link */
@@ -96,6 +99,7 @@ header a:hover{
   font-size:55px;
   margin-bottom:10px;
 }
+
 
 #showcase p{
   font-size:20px;
