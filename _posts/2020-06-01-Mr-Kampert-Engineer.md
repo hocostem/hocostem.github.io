@@ -13,7 +13,7 @@ It fit both my career aspirations and family aspirations.
 
 Bachelors in civil engineering, masters in civil engineering, professional engineer, certified safety professional, commercial diver, certified drone pilot, occupational safety and health technologist, and certified tower climber.
 
-**How did you make the best use of your time in both your education and career?  **
+**How did you make the best use of your time in both your education and career?**
 
 Don’t stop.
 
