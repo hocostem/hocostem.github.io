@@ -13,11 +13,11 @@ It was different, interesting, unique, had a pre-med curriculum, and the startin
 
 B.S. in perfusion technology, Masters in Health Administration, and Certified Clinical Perfusionist.
 
-**How did you make the best use of your time in both your education and career?  **
+**How did you make the best use of your time in both your education and career?**
 
 A good balance of both family and career life.
 
-**What advice would you give to a high school or college student interested in pursuing this field of work? **
+**What advice would you give to a high school or college student interested in pursuing this field of work?**
 
 I think it is a great career to balance your work and family life. Keep studying and take as many science classes as you can.
 
