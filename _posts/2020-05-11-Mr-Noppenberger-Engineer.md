@@ -28,11 +28,11 @@ Pursuing a career in this field of work gives you a lot of options in life and m
 
 I would suggest that even if you are planning to pursue a career in the STEM field, it is still extremely important to have a strong background in writing and public speaking. This is still an extremely important part of any job, and a job applicant for an engineering position who can write and speak is unstoppable. Also, try to get an internship and get hands on experience early. You can also do something like the robotics club. Also, something extremely important would be to learn how to code early. That would be extremely helpful if you want to pursue a career in this field.
 
-** What opportunities did you take as a student that helped advance your career (research, internships, etc.)**
+**What opportunities did you take as a student that helped advance your career (research, internships, etc.)**
 
 I had three internships in college. I worked for the department of transportation twice and I also worked for a robotics company.
 
-** What do you wish you had done differently with regards to your career/education?**
+**What do you wish you had done differently with regards to your career/education?**
 
 I wish I had spent more time doing engineering before I transitioned to management and consulting because that is the part of my job I enjoy a lot more. I also wish I had spent my first two years of college studying more so that my last two years of college would’ve been less painful.
 
