@@ -16,11 +16,11 @@ I got a master’s degree in business, and then certified as a project manager. 
 
 I got a bachelor's degree in engineering from the University of Maryland and my masters at the University of Pennsylvania. I have an EIT certification, which in engineering training. I am also certified as a PMP, which is a project management professional.
 
-**How did you make the best use of your time in both your education and career?  **
+**How did you make the best use of your time in both your education and career?**
 
 I made the best use of my time for my education and career by getting my degrees before I had kids. Once I had kids, all of my time was taken away, so I am very glad I finished my education before that.
 
-**What advice would you give to a high school or college student interested in pursuing this field of work? **
+**What advice would you give to a high school or college student interested in pursuing this field of work?**
 
 Pursuing a career in this field of work gives you a lot of options in life and many career choices. It also pays well. I would advise that you always continue to learn and improve your technical skills, because those are very important. Also, stay an engineer as long as possible before transitioning to management because you will master your craft. Engineering is way more fun than management; building stuff is more fun than managing other people building stuff.
 
