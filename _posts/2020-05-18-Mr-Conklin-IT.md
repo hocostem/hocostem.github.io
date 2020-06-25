@@ -17,11 +17,11 @@ His position as a computer operator in college helped lead him to his current jo
 
 Bachelor’s degree in information systems management
 
-**How did you make the best use of your time in both your education and career?  **
+**How did you make the best use of your time in both your education and career?**
 
 He learned lots of new things to apply to his job. He is always learning.
 
-**What advice would you give to a high school or college student interested in pursuing this field of work? **
+**What advice would you give to a high school or college student interested in pursuing this field of work?**
 
 He advises a high school or college student learns dev/ops to pursue this field of work.
 
