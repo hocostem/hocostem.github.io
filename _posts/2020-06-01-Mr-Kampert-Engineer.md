@@ -2,7 +2,7 @@
 layout: post
 title: Mr. Kampert, Engineer for Department of Labor
 meta: Director of Maritime Enforcement for the Department of Labor
-categories: [engineering]
+tags: [engineering]
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
