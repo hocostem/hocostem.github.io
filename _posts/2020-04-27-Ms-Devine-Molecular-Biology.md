@@ -28,11 +28,11 @@ Talk to your professors! They most likely run their own labs at the school and m
 
 You should try for a university lab or even an internship in a lab outside of school.
 
-** What opportunities did you take as a student that helped advance your career (research, internships, etc.)**
+**What opportunities did you take as a student that helped advance your career (research, internships, etc.)**
 
 Internships and research labs during my master’s program.
 
-** What do you wish you had done differently with regards to your career/education?**
+**What do you wish you had done differently with regards to your career/education?**
 
 I really wish I had known about being able to work at the labs on campus, which I didn't find out about until I was ready to graduate.
 
