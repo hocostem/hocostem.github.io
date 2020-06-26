@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dr. Landsman, Engineer, Pediatrician at Ellicott City Pediatric Associates
+title: Dr. Landsman, Pediatrician at Ellicott City Pediatric Associates
 tags: [science, medicine, women in stem]
 ---
 
