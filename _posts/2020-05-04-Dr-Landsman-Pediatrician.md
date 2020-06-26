@@ -28,11 +28,11 @@ Advice that I would give to high school or college students is that you have to 
 
 I would highly suggest that high school students volunteer at a hospital or doctors or shadow someone in the medical field. Getting this hands on experience will be extremely beneficial for your future.
 
-** What opportunities did you take as a student that helped advance your career (research, internships, etc.)**
+**What opportunities did you take as a student that helped advance your career (research, internships, etc.)**
 
 While I was in college, I worked a summer job doing research at a biotechnology company. I also volunteered at a health clinic while I was in college which provided free medical care to needy patients.
 
-** What do you wish you had done differently with regards to your career/education?**
+**What do you wish you had done differently with regards to your career/education?**
 
 In regards to my career and education, I wish that I took a year off in between college and medical school. I think that it would’ve been good to do some things for myself before I dedicated myself to my career and education.
 
