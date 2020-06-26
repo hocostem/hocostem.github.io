@@ -29,11 +29,15 @@ ul{
 }
 
 .dark{
+  ul{
+    list-style-type:none;
+  }
   padding:15px;
   background:#35424a;
   color:#ffffff;
   margin-top:10px;
   margin-bottom:10px;
+  text-align: center;
 }
 
 /* header */
@@ -138,6 +142,15 @@ article{
   margin:0;
   padding:0;
 }
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items:stretch;
+}
+
 /* boxes */
 #boxes{
   margin:10px;
@@ -152,6 +165,9 @@ article{
 #boxes .box ul{
   margin:0;
   padding:0;
+  list-style-type:none;
+}
+ul{
   list-style-type:none;
 }
 #boxes .box img{
