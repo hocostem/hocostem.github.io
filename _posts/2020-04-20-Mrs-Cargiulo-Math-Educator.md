@@ -1,0 +1,49 @@
+---
+layout: post
+title: Mrs. Cargiulo, Math Educator, Pointer’s Run Elementary
+tags: [education, math]
+---
+
+**Why did you choose to pursue this career?  What made you certain this was the right path?**
+
+I enjoy working with highly capable and mathematically minded students.  I love seeing the reactions they have when they make connections and understand the "why" behind the math.
+
+**What events, prior employment, or educational experiences led you to your current job?**
+
+I have been a math teacher for 29 years.  My high school Calculus teacher, Mrs. Sardella, was really the first math teacher who encouraged us to go beyond the how of math and explore the why.  She opened my mind up to a whole new way of approaching math and made me want to do the same as a math teacher.
+
+**What schooling, education, and/or certifications did you complete to prepare you for this career?**
+
+I have an undergraduate teaching degree along with a Master's degree with a focus on math education.
+
+**How did you make the best use of your time in both your education and career?**
+
+I spent a lot of time reading up on the latest research and reading periodicals which provided me with good insight and ideas for best practices.
+
+**What advice would you give to a high school or college student interested in pursuing this field of work?**
+
+Make sure you have a strong math background and enjoy working with children.  
+
+**What opportunities would you suggest high school students participate in?**
+
+As many STEM opportunities as possible.
+
+**What opportunities did you take as a student that helped advance your career (research, internships, etc.)**
+
+I continued my education by taking mathematics-based courses after college.
+
+**What do you wish you had done differently with regards to your career/education?**
+
+I would have liked to have gone to more conferences to do more face to face networking.  The internet has made so much of this possible, though.  I have had the opportunity to interact with outstanding math educators and researchers as a result.
+
+**What does a typical day at your job look like?**
+
+I teach advanced-level math to 4th and 5th graders and work with them on special projects through instructional seminars.
+
+**What was a surprising aspect of your job?**
+
+I never stopped learning.  Especially when it comes to integrating technology into learning.
+
+**What qualities are necessary to be successful in your field of work, and why?**
+
+Organization, patience, creativity, good communication skills, willingness to take a step back and let the students discover concepts instead of telling them what they need to know.
