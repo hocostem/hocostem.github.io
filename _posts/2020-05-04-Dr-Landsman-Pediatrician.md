@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dr. Landsman, Pediatrician at Ellicott City Pediatric Associates
-tags: [science, medicine, women in stem]
+tags: [science, medicine, women-in-stem]
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
