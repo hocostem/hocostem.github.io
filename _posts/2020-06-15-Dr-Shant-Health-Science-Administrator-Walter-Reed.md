@@ -2,7 +2,7 @@
 layout: post
 title: Dr. Shant, Health Science Administrator at the Walter Reed Army Institute of Research
 meta: 
-categories: [research, health, science, biotechnology]
+tags: [research, health, science, biotechnology, women-in-stem]
 ---
 
 **Why did you choose to pursue this career? What made you certain this was the right path?**
