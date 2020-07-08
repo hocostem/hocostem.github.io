@@ -2,7 +2,7 @@
 layout: post
 title: Dr. Coxson, Instructor and Researcher at U.S. Naval Academy
 meta: A college instructor and research engineer for the Electrical and Computer Engineering Department of the U.S. Naval Academy
-categories: [electrical engineering, computer engineering, research, mathematics, instructor]
+tags: [electrical engineering, computer engineering, research, mathematics, instructor]
 ---
 
 **What schooling or education did you receive to prepare you for this career?**
