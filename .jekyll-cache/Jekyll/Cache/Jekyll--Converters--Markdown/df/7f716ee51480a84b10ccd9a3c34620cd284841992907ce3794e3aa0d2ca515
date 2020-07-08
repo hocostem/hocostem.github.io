@@ -1,41 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-  <meta charset="utf-8">
-  <meta name ="viewport" content="width=device-width">
-  <meta name ="description" content="STEM opportunities and mentorship in Howard County">
-  <meta name ="keywords" content="STEM opportunities, Howard County STEM, STEM in Howard County, STEM mentorship, Howard County STEM mentorship">
-  <meta name ="author" content="Angeline Luther">
-  <title>HoCoSTEM | Mr. Noppenberger, Engineer, VP at Booz Allen Hamilton</title>
-  <link rel="stylesheet" href="\css/style.css">
-</head>
-
-  <body>
-    <header>
-      <div class="container">
-        <div id="sitetitle">
-          <h1><span class="highlight">Howard County</span> STEM</h1>
-        </div>
-        <nav>
-  <ul>
-    <li class=""><a href="/index.html">Home</a></li>
-    <li class=""><a href="/calendar.html">Calendar</a></li>
-    <li class=""><a href="/mentors.html">Mentors</a></li>
-    <li class=""><a href="/opportunities.html">Opportunities</a></li>
-    <li class=""><a href="/women-in-stem.html">Women in STEM</a></li>
-    <li class=""><a href="/about.html">About Us</a></li>
-  </ul>
-</nav>
-
-      </div>
-    </header>
-
-    
-    <div class="post">
-      <article>
-        <h1><strong>Mr. Noppenberger, Engineer, VP at Booz Allen Hamilton</strong></h1>
-        <h4>Published 11 May 2020</h4>
-        <p><strong>Why did you choose to pursue this career?  What made you certain this was the right path?</strong></p>
+I""<p><strong>Why did you choose to pursue this career?  What made you certain this was the right path?</strong></p>
 
 <p>I chose to pursue this career because I was always really good at math. I liked understanding how things worked, too. When I was little, for fun, I would take things apart and put them back together to try to understand how their parts worked together in order to function.</p>
 
@@ -82,14 +45,4 @@
 <p><strong>Do you have any additional advice?</strong></p>
 
 <p>Don’t give up. It is very hard at first, but it will get easier. Especially in college, don’t give up your freshman and sophomore year when classes are more boring and book dependent. You must push through these years so you can get to the fun classes with problem solving and building new, innovative things. You may find your first two years difficult and not very exciting learning the fundamentals of science and math, but you have to stay focused on the end game. The last few years start to really become fun if you are really interested in engineering because there is a larger focus on building things.</p>
-
-      </article>
-    </div>
-
-
-    <footer>
-  <p>HoCo STEM 2020</p>
-</footer>
-
-  </body>
-</html>
+:ET

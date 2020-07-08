@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  {% include header.html %}
+  <body>
+    <header>
+      <div class="container">
+        <div id="sitetitle">
+          <h1><span class="highlight">Howard County</span> STEM</h1>
+        </div>
+        {% include nav.html %}
+      </div>
+    </header>
+
+    {% include newsletter.html %}
+
+    <section id="main">
+      <div class="container">
+      <h1 class="page-title">{{ page.title }}</h1>
+
+        <h2>Upcoming Events</h2>
+        <!-- women in stem agenda -->
+        <iframe src="https://calendar.google.com/calendar/b/3/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=YWpkb2Q2czA4NTl0ZzE1aTJvZGg3NWh2dDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E67C73" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+        <!-- women in stem organizations (must still add)-->
+
+        <!-- Need to edit to only include women in stem posts -->
+        <div class="posts">
+          <h2>Women STEM Mentors</h2>
+            {% for post in site.posts %}
+                {% if post.tags != empty %}
+                  {% for tag in post.tags %}
+                    {% if tag == "women-in-stem" or tag == "Women in STEM" or tag == "women in stem" %}
+                      <h3><a href="{{ post.url }}">{{ post.title }}, {{ post.date | date_to_string }}</a></h3>
+                    {% endif %}
+                  {% endfor %}
+                {% endif %}
+            {% endfor %}
+        </div>﻿
+
+      </div>
+
+    </section>
+
+    {% include footer.html %}
+  </body>
+</html>

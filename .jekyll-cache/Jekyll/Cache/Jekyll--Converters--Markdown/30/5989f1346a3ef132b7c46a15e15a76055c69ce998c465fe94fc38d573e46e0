@@ -1,47 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-  <meta charset="utf-8">
-  <meta name ="viewport" content="width=device-width">
-  <meta name ="description" content="STEM opportunities and mentorship in Howard County">
-  <meta name ="keywords" content="STEM opportunities, Howard County STEM, STEM in Howard County, STEM mentorship, Howard County STEM mentorship">
-  <meta name ="author" content="Angeline Luther">
-  <title>HoCoSTEM | Opportunities</title>
-  <link rel="stylesheet" href="\css/style.css">
-</head>
-
-  <body>
-    <header>
-      <div class="container">
-        <div id="sitetitle">
-          <h1><span class="highlight">Howard County</span> STEM</h1>
-        </div>
-        <nav>
-  <ul>
-    <li class=""><a href="/index.html">Home</a></li>
-    <li class=""><a href="/calendar.html">Calendar</a></li>
-    <li class=""><a href="/mentors.html">Mentors</a></li>
-    <li class=" current highlight "><a href="/opportunities.html">Opportunities</a></li>
-    <li class=""><a href="/women-in-stem.html">Women in STEM</a></li>
-    <li class=""><a href="/about.html">About Us</a></li>
-  </ul>
-</nav>
-
-      </div>
-    </header>
-
-    <section id="newsletter">
-  <div class="container">
-    <h1><a href="http://eepurl.com/gQiiPP">Click Here to Subscribe to Our Newsletter</a></h1>
-  </div>
-</section>
-
-
-    <section id="main">
-      <div class="container">
-      <h1 class="page-title">Opportunities</h1>
-        <article id="main-col">
-          <div class="flex-container">
+I"=<div class="flex-container">
     <div>
       <h4>Classes</h4>
       <p>Howard County offers a plethora of class opportunities and career academies that provide opportunities for students to explore career paths before their graduation.  Here is a list of a few STEM career academies:
@@ -112,14 +69,4 @@
         </div>
 
   </div>
-
-        </article>
-      </div>
-    </section>
-
-    <footer>
-  <p>HoCo STEM 2020</p>
-</footer>
-
-  </body>
-</html>
+:ET
