@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mr. Reger, Neurogeneticist PhD Candidate at the University of Maryland Baltimore Candidate
+title: Mr. Reger, Neurogeneticist PhD Candidate at UMBC
 tags: [science, biology, research]
 ---
 
