@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mrs. Aguilera, Senior Systems Analyst at a Medium-Sized Contractor
-tags: [IT, computer-science, math]
+tags: [IT, computer-science, math, women-in-stem]
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
