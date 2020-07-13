@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dr. Weaver, Computer Scientist at the Laboratory for Advanced Cyber Security Research
+title: Computer Scientist at the Laboratory for Advanced Cyber Security Research
 tags: [computer-science, cybersecurity]
 ---
 
