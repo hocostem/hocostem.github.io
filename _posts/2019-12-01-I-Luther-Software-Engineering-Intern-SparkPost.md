@@ -3,7 +3,7 @@ layout: post
 title: Mr. Isaac L., Software Engineering Intern at SparkPost
 meta: A current sophomore working towards earning his undergraduate degree as a computer science and mathematics double major.
 tags: [computer-science, engineering, math, undergrad-student]
-active-mentor:true
+active-mentor: true
 ---
 **What education is needed for a student looking to work in your discipline? What schooling or education did you receive to prepare you for this career?**
 
