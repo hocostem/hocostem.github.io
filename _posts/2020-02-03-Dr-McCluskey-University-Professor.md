@@ -2,6 +2,7 @@
 layout: post
 title: Dr. McCluskey, University Professor in Mechanical Engineering
 tags: [engineer, mechanical, education]
+active-mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
