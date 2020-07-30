@@ -2,7 +2,7 @@
 layout: post
 title: Mrs. Strozyk, Environmental Educator for HCPSS
 tags: [education, science, women-in-stem]
-active-mentor: true
+active_mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
