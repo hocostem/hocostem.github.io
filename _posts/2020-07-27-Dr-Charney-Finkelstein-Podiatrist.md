@@ -2,6 +2,7 @@
 layout: post
 title: Dr. Charney-Finkelstein, Podiatrist at a Private Practice
 tags: [women-in-stem, medicine, biology]
+active-mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
