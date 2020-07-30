@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dr. Zesta, Supervisor of Lab of Scientists at NASA
-tags: [supervisor, physics, women-in-stem]
+tags: [management, physics, women-in-stem]
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
