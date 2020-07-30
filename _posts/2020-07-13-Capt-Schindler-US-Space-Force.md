@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Captain Schindler, Mission Director for the U.S. Space Force
-tags: [engineer, aerospace, DoD]
+tags: [engineering, aerospace, DoD]
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
