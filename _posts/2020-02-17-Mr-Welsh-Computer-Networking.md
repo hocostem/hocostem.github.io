@@ -2,6 +2,7 @@
 layout: post
 title: Mr. Welsh, Manager of Computer Networking Team
 tags: [management]
+active-mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
