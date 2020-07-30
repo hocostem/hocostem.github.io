@@ -2,6 +2,7 @@
 layout: post
 title: Ms. Devine, Molecular Biology Lab Technician for UMBC Department of Biological Sciences
 tags: [biology, women-in-stem]
+active-mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
