@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mrs. McCluskey, Manager of Bridge Engineers at Consulting Engineering Firm
-tags: [engineer, manager, women-in-stem, civil]
+tags: [engineer, management, women-in-stem, civil]
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
