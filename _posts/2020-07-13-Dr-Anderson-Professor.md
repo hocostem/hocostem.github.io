@@ -2,7 +2,7 @@
 layout: post
 title: Dr. Anderson, Professor at the University of Maryland School of Pharmacy
 tags: [education, chemistry, pharmacy]
-active-mentor: true
+active_mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
