@@ -3,12 +3,6 @@ title: About
 layout: default
 ---
 
-**The Howard County STEM website was made as a part of a Girl Scout Gold Award aimed at giving students guidance and confidence in pursuing STEM disciplines.**
+**HoCoSTEM's mission is to give students guidance in order to boost their confidence in pursuing STEM disciplines.**
 
-**What is STEM?**
-
-STEM stands for science, technology, engineering and math.
-
-**What is the importance of this project?**
-
-Many students lack confidence when they have no guidance.  STEM minorities, such as low income families, women, and racial minorities, are often underrepresented due to a awareness gap.  This website is a tool for students to research about a variety of STEM disciplines.  The information offered on HoCoSTEM is aimed to promote an awareness of a wide variety of STEM fields.
+Many students lack confidence when they have no guidance.  All students can benefit from additional resources, however, we especially wish to reach out to STEM minorities, such as women, racial minorities, and those living in poverty who are often underrepresented and hesitant to pursue a career in the STEM fields.  This website is a tool for students to research about a variety of STEM disciplines.  The information offered on HoCoSTEM is aimed to promote an awareness of a wide variety of STEM fields.
