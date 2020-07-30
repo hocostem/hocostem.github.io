@@ -20,6 +20,10 @@ title: HoCoSTEM Mentors
       <div class="container">
       <h1 class="page-title">{{ page.title }}</h1>
           <h4>Published {{ page.date | date_to_string }}</h4>
+           {% if post.tags.size > 0 %}
+              &emsp;Tag{% if post.tags.size > 1 %}s{% endif %}:
+              {{ post.tags | sort | join: ", " }}
+           {% endif %}
           {{ content }}
       </div>
     </section>
