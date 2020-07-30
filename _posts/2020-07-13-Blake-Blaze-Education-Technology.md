@@ -2,7 +2,7 @@
 layout: post
 title: Blake Blaze, Former Military Intelligence Officer Transitioning to a Career in Education Technology
 tags: [math, DoD, education, technology]
-active-mentor: true
+active_mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
