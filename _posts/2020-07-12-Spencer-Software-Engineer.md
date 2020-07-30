@@ -2,6 +2,7 @@
 layout: post
 title: Spencer, Senior Developer at L3Harris 
 tags: [computer-science]
+active-mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
