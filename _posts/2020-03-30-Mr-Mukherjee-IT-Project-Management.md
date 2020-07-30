@@ -2,7 +2,7 @@
 layout: post
 title: Mr. Mukherjee, Project Management Office Director, MD Department of Human Services
 tags: [IT, health, management]
-active-mentor: true
+active_mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
