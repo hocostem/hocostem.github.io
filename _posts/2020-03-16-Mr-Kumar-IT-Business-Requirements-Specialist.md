@@ -2,6 +2,7 @@
 layout: post
 title: Mr. Kumar, IT Requirements Manager at MD Department of Human Services
 tags: [IT, business, health]
+active-mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
