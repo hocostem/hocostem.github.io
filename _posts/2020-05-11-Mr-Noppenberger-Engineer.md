@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mr. Noppenberger, Engineer, VP at Booz Allen Hamilton
-tags: [engineer, project management]
+tags: [engineer, management]
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
