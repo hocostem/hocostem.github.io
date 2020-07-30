@@ -3,7 +3,7 @@ layout: post
 title: Ms. Borden, Meteorologist for National Weather Service
 meta: Meteorologist/Forecaster for the National Weather Service in Nashville, TN
 tags: [science, weather, meteorology, women-in-stem]
-active-mentor: true
+active_mentor: true
 ---
 
 **Why did you choose to pursue this career/major?  What made you certain this was the right path?**
