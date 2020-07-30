@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mrs. Nicole L., Deputy Chief Operations Officer at the DoD
-tags: [engineer, chemistry, project-management, women-in-stem, DoD]
+tags: [engineer, chemistry, management, women-in-stem, DoD]
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
