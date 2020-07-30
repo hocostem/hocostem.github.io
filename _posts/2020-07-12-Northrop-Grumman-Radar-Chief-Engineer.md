@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chief Engineer Working in Ground Based RADAR at Northrop Grumman
-tags: [engineer, electrical]
+tags: [engineering, electrical]
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
