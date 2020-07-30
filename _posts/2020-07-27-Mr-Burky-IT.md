@@ -2,6 +2,7 @@
 layout: post
 title: Mr. Burky, Business Intelligence Report Developer for Ariel Corporation
 tags: [IT, engineering, business]
+active-mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
