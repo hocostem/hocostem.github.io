@@ -2,7 +2,7 @@
 layout: post
 title: Mr. Mohopatra, Program Manager at Maryland Department of Human Services
 tags: [IT, finance, management]
-active-mentor: true
+active_mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
