@@ -3,6 +3,7 @@ layout: post
 title: Mr. Conklin, Information Technology at Avaya
 meta: Information technology engineer
 tags: [engineer, IT]
+active-mentor: false
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
