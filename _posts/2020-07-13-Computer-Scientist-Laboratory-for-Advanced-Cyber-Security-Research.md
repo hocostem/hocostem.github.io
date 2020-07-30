@@ -2,6 +2,7 @@
 layout: post
 title: Computer Scientist at the Laboratory for Advanced Cyber Security Research
 tags: [computer-science, cybersecurity]
+active-mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
