@@ -21,7 +21,7 @@ title: HoCoSTEM Mentors
       <h1 class="page-title">{{ page.title }}</h1>
           <h4>Published {{ page.date | date_to_string }}</h4>
            {% if page.tags.size > 0 %}
-              &emsp;Tag{% if page.tags.size > 1 %}s{% endif %}:
+              Tag{% if page.tags.size > 1 %}s{% endif %}:
               {{ page.tags | sort | join: ", " }}
            {% endif %}
           {{ content }}
