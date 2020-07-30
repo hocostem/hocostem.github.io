@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blake Jacobson, Cryptologic Warfare Officer for the U.S. Navy
-tags: [cryptology, DoD, math, project-management]
+tags: [cryptology, DoD, math, management]
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
