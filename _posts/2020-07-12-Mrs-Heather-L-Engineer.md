@@ -2,6 +2,7 @@
 layout: post
 title: Mrs. Heather L., Senior Electrical Engineer for the DoD
 tags: [engineering, electrical, management, women-in-stem]
+active-mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
