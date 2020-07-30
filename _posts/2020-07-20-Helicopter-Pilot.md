@@ -2,6 +2,7 @@
 layout: post
 title: Helicopter Pilot for the Marines
 tags: [aviation, engineering, civil]
+active-mentor: false
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
