@@ -3,6 +3,7 @@ layout: post
 title: Mrs. Kampert, Healthcare Worker at St. Joseph’s Medical Center
 meta: Chief Cardiac Perfusionist at St. Joseph’s Medical Center
 tags: [science, healthcare, women-in-stem]
+active-mentor: false
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
