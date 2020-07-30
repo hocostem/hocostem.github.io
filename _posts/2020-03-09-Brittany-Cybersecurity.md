@@ -2,6 +2,7 @@
 layout: post
 title: Brittany, Former Veterinary Technician Studying Cybersecurity and Information Assurance at WGU
 tags: [cybersecurity, women-in-stem]
+active-mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
