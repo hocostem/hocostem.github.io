@@ -2,7 +2,8 @@
 title: Calendar
 layout: default
 ---
-<p>Want to learn more about high school internships?  Hear from current and recently graduated HCPSS students about their experiences interning at NASA, Dreamport, the National Aquarium in Baltimore, Johns Hopkins Applied Physics Lab, and the U.S. Naval Academy.  
+<p>Want to learn more about high school internships?  
+<br>Hear from current and recently graduated HCPSS students about their experiences interning at NASA, Dreamport, the National Aquarium in Baltimore, Johns Hopkins Applied Physics Lab, and the U.S. Naval Academy.  
 <br>HoCoSTEM is hosting an information and Q+A session virtually on Zoom on August 8th from 5-6pm EST.  
 <br>Interested?  Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdMm_S8eUPmKlzacoIE3J0ojnVKDBCaHR7WttRXB0vO-P7vWA/viewform?usp=sf_link">here</a> to register for the event.</p>
 <div class="responsiveCal">
