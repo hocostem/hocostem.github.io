@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Operational Manager for the DoD
-tags: [manager, DoD, math]
+tags: [management, DoD, math]
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
