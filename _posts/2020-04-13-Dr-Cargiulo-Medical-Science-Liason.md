@@ -2,7 +2,7 @@
 layout: post
 title: Dr. Cargiulo, Medical Science Liaison at Indivior Inc.
 tags: [science, pharmacy, medical science]
-active-mentor: true
+active_mentor: true
 ---
 
 **Why did you choose to pursue this career?  What made you certain this was the right path?**
