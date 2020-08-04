@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dr. McCluskey, University Professor in Mechanical Engineering
-tags: [engineer, mechanical, education]
+tags: [engineering, mechanical, education]
 active_mentor: true
 ---
 
