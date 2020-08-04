@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jessica, UMD Student Studying Materials Science
-tags: [undergrad-student, science, chemistry]
+tags: [undergrad-student, science, chemistry, women-in-stem]
 active_mentor: true
 ---
 
