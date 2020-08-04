@@ -2,7 +2,7 @@
 layout: post
 title: Mr. Conklin, Information Technology at Avaya
 meta: Information technology engineer
-tags: [engineer, IT]
+tags: [engineering, IT]
 active_mentor: false
 ---
 
