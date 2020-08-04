@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mr. Noppenberger, Engineer, VP at Booz Allen Hamilton
-tags: [engineer, management]
+tags: [engineering, management]
 active_mentor: false
 ---
 
